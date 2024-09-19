@@ -1,0 +1,563 @@
+Food,Serving,Calories,Type,Weight_Volume,Calories_per_100
+Artichoke,1 artichoke (128 g),60,Solid,128,46.875
+Arugula,1 leaf (2 g),1,Solid,2,50.0
+Asparagus,1 spear (12 g),2,Solid,12,16.666666666666664
+Aubergine,1 aubergine (458 g),115,Solid,458,25.109170305676855
+Beetroot,1 beet (82 g),35,Solid,82,42.68292682926829
+Bell Pepper,1 pepper (73 g),15,Solid,73,20.54794520547945
+Black Olives,1 olive (2.7 g),2,Solid,7,28.57142857142857
+Broccoli,1 bunch (608 g),207,Solid,608,34.04605263157895
+Brussels Sprouts,1 sprout (19 g),8,Solid,19,42.10526315789473
+Cabbage,1 head (908 g),227,Solid,908,25.0
+Capsicum,1 pepper (45 g),12,Solid,45,26.666666666666668
+Carrot,1 carrot (61 g),25,Solid,61,40.98360655737705
+Cauliflower,1 floweret (13 g),3,Solid,13,23.076923076923077
+Celery,1 stalk (40 g),6,Solid,40,15.0
+Chard,1 leaf (48 g),9,Solid,48,18.75
+Cherry Tomato,1 cherry tomato (20 g),20,Solid,20,100.0
+Chicory,1 head (53 g),38,Solid,53,71.69811320754717
+Chinese Cabbage,1 head (840 g),134,Solid,840,15.95238095238095
+Chives,"1 tbsp, chopped (3 g)",1,Solid,3,33.33333333333333
+Collard Greens,"1 cup, raw (36 g)",12,Solid,36,33.33333333333333
+Corn,1 cup (154 g),562,Solid,154,364.93506493506493
+Courgette,1 courgette (196 g),33,Solid,196,16.83673469387755
+Creamed Spinach,1 cup (200 g),148,Solid,200,74.0
+Cucumber,1 cucumber (410 g),66,Solid,410,16.097560975609756
+Eggplant,1 eggplant (458 g),115,Solid,458,25.109170305676855
+Endive,1 head (513 g),87,Solid,513,16.95906432748538
+Fennel,1 bulb (234 g),73,Solid,234,31.196581196581196
+Garlic,1 clove (3 g),4,Solid,3,133.33333333333331
+Gherkin,1 gherkin (65 g),9,Solid,1,900.0
+Gourd,1 gourd (771 g),108,Solid,1,10800.0
+Green Beans,1 cup (110 g),34,Solid,110,30.909090909090907
+Green Olives,1 olive (2.7 g),2,Solid,7,28.57142857142857
+Green Onion,1 green onion (15 g),5,Solid,1,500.0
+Horseradish,1 tbsp (15 g),7,Solid,15,46.666666666666664
+Kale,"1 cup, chopped (67 g)",33,Solid,67,49.25373134328358
+Kohlrabi,1 kohlrabi (400 g),108,Solid,400,27.0
+Kumara,1 kumara (130 g),112,Solid,130,86.15384615384616
+Leek,1 leek (89 g),54,Solid,89,60.67415730337079
+Lettuce,1 head (600 g),90,Solid,600,15.0
+Mushrooms,1 mushroom (5.4 g),1,Solid,4,25.0
+Mustard Greens,"1 cup, chopped (56 g)",15,Solid,56,26.785714285714285
+Nori,1 sheet (2.6 g),1,Solid,6,16.666666666666664
+Okra,1 pod (12 g),4,Solid,12,33.33333333333333
+Olives,1 olive (2.7 g),2,Solid,7,28.57142857142857
+Onion,1 onion (85 g),34,Solid,85,40.0
+Parsnips,1 parsnip (170 g),128,Solid,170,75.29411764705883
+Peas,1 cup (98 g),79,Solid,98,80.61224489795919
+Pepper,1 pepper (75 g),20,Solid,75,26.666666666666668
+Potato,1 potato (213 g),164,Solid,213,76.99530516431925
+Pumpkin,1 pumpkin (196 g),51,Solid,196,26.02040816326531
+Radishes,1 radish (4.5 g),1,Solid,5,20.0
+Red Cabbage,1 leaf (22 g),7,Solid,22,31.818181818181817
+Rutabaga,1 rutabaga (386 g),147,Solid,386,38.082901554404145
+Shallots,1 shallot (25 g),18,Solid,25,72.0
+Spinach,1 bunch (340 g),78,Solid,340,22.941176470588236
+Squash,1 squash (196 g),88,Solid,196,44.89795918367347
+Sweet Potato,1 potato (130 g),112,Solid,130,86.15384615384616
+Tomato,1 tomato (111 g),20,Solid,111,18.01801801801802
+Turnip Greens,1 turnip green (170 g),34,Solid,170,20.0
+Turnips,1 turnip (122 g),34,Solid,122,27.86885245901639
+Wasabi,1 root (169 g),184,Solid,169,108.87573964497041
+Winter Squash,1 squash (431 g),147,Solid,431,34.106728538283065
+Zucchini,1 zucchini (196 g),33,Solid,196,16.83673469387755
+Acai,1 oz. (28.35 g),20,Solid,35,57.14285714285714
+Apple,1 apple (182 g),95,Solid,182,52.197802197802204
+Applesauce,1 cup (246 g),167,Solid,246,67.88617886178862
+Apricot,1 apricot (35 g),17,Solid,35,48.57142857142857
+Avocado,1 avocado (200 g),320,Solid,200,160.0
+Banana,1 banana (125 g),111,Solid,125,88.8
+Blackberries,1 cup (144 g),62,Solid,144,43.05555555555556
+Blood Oranges,1 serving (140 g),70,Solid,140,50.0
+Blueberries,1 cup (148 g),84,Solid,148,56.75675675675676
+Cantaloupe,1 wedge (69 g),23,Solid,69,33.33333333333333
+Cherries,1 cherry (8 g),4,Solid,8,50.0
+Clementine,1 clementine (74 g),35,Solid,74,47.2972972972973
+Cranberries,1 cup (100 g),46,Solid,100,46.0
+Currants,1 cup (112 g),63,Solid,112,56.25
+Custard Apple,1 custard apple (135 g),136,Solid,135,100.74074074074073
+Dates,1 date (7.1 g),20,Solid,1,2000.0
+Figs,1 fig (50 g),37,Solid,50,74.0
+Fruit salad,1 cup (249 g),125,Solid,249,50.20080321285141
+Grapes,1 cup (151 g),104,Solid,151,68.87417218543047
+Greengage,1 fruit (5 g),2,Solid,5,40.0
+Guava,1 guava (55 g),37,Solid,1,3700.0
+Jackfruit,1 cup (151 g),143,Solid,151,94.70198675496688
+Jujube,1 oz. (28.35 g),22,Solid,35,62.857142857142854
+Kiwi,1 liwi (183 g),112,Solid,183,61.20218579234973
+Lemon,1 lemon (58 g),17,Solid,58,29.310344827586203
+Lime,1 lime (67 g),20,Solid,67,29.850746268656714
+Lychees,1 lychee (10 g),7,Solid,10,70.0
+Mandarin Oranges,1 mandarin orange (88 g),47,Solid,88,53.40909090909091
+Mango,1 mango (336 g),202,Solid,336,60.11904761904761
+Minneola,1 minneola (109 g),70,Solid,109,64.22018348623854
+Mulberries,1 cup (140 g),60,Solid,140,42.857142857142854
+Nectarine,1 nectarine (150 g),66,Solid,150,44.0
+Olives,1 olive (2.7 g),2,Solid,7,28.57142857142857
+Orange,1 orange (131 g),62,Solid,131,47.32824427480916
+Papaya,1 fruit (500 g),215,Solid,500,43.0
+Passion Fruit,1 passoin fruit (18 g),17,Solid,18,94.44444444444444
+Peach,1 peach (150 g),59,Solid,150,39.33333333333333
+Pear,1 pear (178 g),101,Solid,178,56.74157303370787
+Persimmon,1 fruit (25 g),32,Solid,25,128.0
+Physalis,1 berry (5 g),2,Solid,5,40.0
+Pineapple,1 pineapple (905 g),453,Solid,905,50.05524861878453
+Plantains,1 plantain (179 g),218,Solid,179,121.78770949720669
+Plum,1 plum (66 g),30,Solid,66,45.45454545454545
+Pomegranate,1 pomegranate (282 g),234,Solid,282,82.97872340425532
+Quince,1 quince (92 g),52,Solid,92,56.52173913043478
+Raisins,1 cup (145 g),434,Solid,145,299.3103448275862
+Rambutan,1 rambutan (9 g),7,Solid,9,77.77777777777779
+Raspberries,1 cup (123 g),64,Solid,123,52.03252032520326
+Rhubarb,1 stalk (51 g),11,Solid,51,21.568627450980394
+Starfruit,1 star fruit (91 g),28,Solid,91,30.76923076923077
+Strawberries,1 cup (152 g),49,Solid,152,32.23684210526316
+Tamarind,1 tamarind (2 g),5,Solid,2,250.0
+Tangerine,1 tangerine (88 g),47,Solid,88,53.40909090909091
+Watermelon,1 wedge (286 g),86,Solid,286,30.069930069930066
+Baby Back Ribs,1 serving (139 g),360,Solid,139,258.9928057553957
+Bacon and Eggs,1 serving (214 g),539,Solid,214,251.86915887850466
+Baked Beans,1 cup (260 g),244,Solid,260,93.84615384615384
+BBQ Ribs,1 rib (141 g),360,Solid,141,255.31914893617022
+Beef Stew,1 cup (196 g),186,Solid,196,94.89795918367348
+Biryani,1 cup (275 g),484,Solid,275,176.0
+Black Pudding,1 pudding (40 g),101,Solid,40,252.5
+Black Rice,1/2 cup (100 g),323,Solid,100,323.0
+BLT,1 item (240 g),593,Solid,240,247.08333333333331
+Brown Rice,1 cup (185 g),670,Solid,185,362.16216216216213
+Burrito,1 burrito (200 g),326,Solid,200,163.0
+Butter Chicken,1 tray (350 g),490,Solid,350,140.0
+California Roll,1 roll (35 g),33,Solid,35,94.28571428571428
+Chicken Caesar Salad,1 salad (309 g),392,Solid,309,126.86084142394822
+Chicken Fried Steak,1 steak (280 g),423,Solid,280,151.07142857142856
+Chicken Marsala,1 serving (2301 g),2209,Solid,2301,96.00173837461973
+Chicken Parmesan,1 piece (227 g),250,Solid,227,110.13215859030836
+Chicken Pot Pie,1 pie (302 g),673,Solid,302,222.8476821192053
+Chicken Tikka Masala,1 serving (241 g),195,Solid,241,80.91286307053942
+Chili con Carne,1 cup (253 g),266,Solid,253,105.13833992094861
+Chimichanga,1 item (180 g),418,Solid,180,232.22222222222223
+Cobb Salad,1 serving (536 g),632,Solid,536,117.91044776119404
+Collard Greens,1 cup (45 g),13,Solid,45,28.888888888888886
+Corn Dog,1 item (175 g),438,Solid,175,250.28571428571428
+Corned Beef Hash,1 can (213 g),349,Solid,213,163.84976525821594
+Cottage Pie,1 pie (376 g),523,Solid,376,139.09574468085106
+Dal,1/2 cup (92 g),304,Solid,92,330.4347826086956
+Deviled Eggs,1/2 egg (31 g),62,Solid,31,200.0
+Dim Sum,1 piece (19 g),37,Solid,19,194.73684210526315
+Dosa,1 serving (435 g),287,Solid,435,65.97701149425286
+Enchiladas,1 enchilada (192 g),323,Solid,192,168.22916666666669
+Fajita,1 serving (248 g),290,Solid,248,116.93548387096774
+Fish and Chips,1 serving (300 g),585,Solid,300,195.0
+Fried Rice,1 serving (356 g),662,Solid,356,185.95505617977528
+Fried Shrimp,1 shrimp (27 g),75,Solid,27,277.77777777777777
+Grilled Cheese Sandwich,1 sandwich (136 g),392,Solid,136,288.2352941176471
+Ham and Cheese Sandwich,1 sandwich (146 g),352,Solid,146,241.0958904109589
+Hummus,1 cup (246 g),435,Solid,246,176.82926829268294
+Jambalaya,1 cup (250 g),250,Solid,250,100.0
+Kebab,1 kebab (360 g),774,Solid,360,215.0
+Lasagne,1 serving (215 g),284,Solid,215,132.09302325581396
+Mac and Cheese,1 serving (189 g),699,Solid,189,369.8412698412699
+Macaroni and Cheese,1 serving (189 g),699,Solid,189,369.8412698412699
+Mashed Potatoes,1 cup (210 g),174,Solid,210,82.85714285714286
+Meat Pie,1 pie (120 g),290,Solid,120,241.66666666666666
+Meatloaf,1 loaf (284 g),721,Solid,284,253.8732394366197
+Naan,1 bread (84 g),260,Solid,84,309.5238095238095
+Orange Chicken,1 serving (162 g),420,Solid,162,259.25925925925924
+Pad Thai,1 cup (250 g),375,Solid,250,150.0
+Paella,1/2 package (128 g),200,Solid,128,156.25
+Paratha,1 paratha (80 g),260,Solid,80,325.0
+Pea Soup,1 cup (253 g),190,Solid,253,75.09881422924902
+Peanut Butter Sandwich,1 sandwich (49 g),200,Solid,49,408.16326530612247
+Peking Duck,1/2 duck (178 g),401,Solid,178,225.28089887640448
+Philly Cheese Steak,1 sandwich (120 g),300,Solid,120,250.0
+Pizza,1 slice (102 g),272,Solid,102,266.66666666666663
+Pork Chop,1 chop (131 g),295,Solid,131,225.19083969465646
+Potato Salad,1/3 cup (95 g),136,Solid,95,143.1578947368421
+Pulled Pork Sandwich,1 sandwich (261 g),551,Solid,261,211.11111111111111
+Ramen,"1 package, dry (85 g)",380,Solid,85,447.05882352941177
+Ravioli,5 ravioli (66 g),134,Solid,66,203.03030303030303
+Reuben Sandwich,1 sandwich (308 g),641,Solid,308,208.1168831168831
+Roast Beef,1 slice (21 g),23,Solid,21,109.52380952380953
+Roast Dinner,1 slice (121 g),240,Solid,121,198.34710743801654
+Samosa,1 samosa (50 g),107,Solid,50,214.0
+Sausage Roll,1 roll (103 g),361,Solid,103,350.4854368932039
+Sausage Rolls,1 roll (34 g),101,Solid,34,297.05882352941177
+Shepherds Pie,1 pie (227 g),159,Solid,227,70.04405286343612
+Shrimp Cocktail,1 oz. (28 g),130,Solid,28,464.28571428571433
+Sloppy Joe,1/2 cup (142 g),101,Solid,142,71.12676056338029
+Sloppy Joes,1 bun (258 g),397,Solid,258,153.87596899224806
+Spaghetti Bolognese,1 serving (283 g),374,Solid,283,132.15547703180212
+Spring Roll,1 roll (140 g),350,Solid,140,250.0
+Spring Rolls,1 roll (140 g),350,Solid,140,250.0
+Taco,1 taco (98 g),213,Solid,98,217.3469387755102
+Tandoori Chicken,1 serving (175 g),198,Solid,175,113.14285714285714
+Yorkshire Pudding,1 pudding (15 g),83,Solid,15,553.3333333333334
+Amaranth,1 cup (193 g),716,Solid,193,370.98445595854923
+Barley,1 cup (157 g),556,Solid,157,354.14012738853506
+Barley Groats,1 cup (31 g),31,Solid,31,100.0
+Brown Rice,1 cup (195 g),757,Solid,195,388.2051282051282
+Buckwheat,1 cup (170 g),583,Solid,170,342.94117647058823
+Buckwheat Groats,1 cup (164 g),567,Solid,164,345.7317073170732
+Corn Waffles,1 waffle (40 g),110,Solid,40,275.0
+Cornmeal,1 cup (122 g),442,Solid,122,362.2950819672131
+Cornstarch,1 cup (128 g),488,Solid,128,381.25
+Couscous,1 cup (173 g),650,Solid,173,375.7225433526012
+Cracker,1 cracker (7 g),35,Solid,7,500.0
+Durum Wheat Semolina,1 tbsp (30 g),119,Solid,30,396.6666666666667
+Flaxseed,1 cup (168 g),897,Solid,168,533.9285714285714
+Freekeh,1 cup (160 g),832,Solid,160,520.0
+Gluten,1 oz. (28 g),104,Solid,28,371.42857142857144
+Grissini,1 grissini (5 g),20,Solid,1,2000.0
+Kamut,1 cup (186 g),627,Solid,186,337.0967741935484
+Millet,1 cup (128 g),484,Solid,128,378.125
+Millet Flour,1 cup (140 g),521,Solid,140,372.14285714285717
+Millet Gruel,1 cup (174 g),80,Solid,174,45.97701149425287
+Oat Bran,1 cup (94 g),231,Solid,94,245.74468085106383
+Pearl Barley,1 cup (157 g),553,Solid,157,352.2292993630573
+Polenta,1 cup (150 g),549,Solid,150,366.0
+Prawn Crackers,1 cracker (3 g),16,Solid,3,533.3333333333333
+Pretzel Sticks,20 sticks (12 g),46,Solid,12,383.33333333333337
+Quinoa,1 cup (170 g),626,Solid,170,368.235294117647
+Rusk,1 rusk (10 g),41,Solid,10,409.99999999999994
+Rye Bran,1 cup (150 g),422,Solid,150,281.33333333333337
+Sago,1 oz. (28 g),99,Solid,28,353.57142857142856
+Savoury Biscuits,40 grams (40 g),139,Solid,40,347.5
+Shortbread,1 cookie (19 g),95,Solid,19,500.0
+Spelt,1 cup (174 g),588,Solid,174,337.9310344827586
+Spelt Bran,1 cup (160 g),283,Solid,160,176.875
+Spelt Semolina,1 cup (167 g),601,Solid,167,359.88023952095807
+Sunflower Seeds,1 cup (140 g),818,Solid,140,584.2857142857142
+Tortilla,1 tortilla (197 g),467,Solid,197,237.05583756345177
+Tortilla Chips,20 chips (32 g),160,Solid,32,500.0
+Wheat Bran,1 cup (58 g),125,Solid,58,215.51724137931038
+Wheat Germ,1 cup (113 g),432,Solid,113,382.3008849557522
+Wheat Gluten,1 tsp (3 g),10,Solid,3,333.33333333333337
+Wheat Semolina,1 cup (167 g),601,Solid,167,359.88023952095807
+Wheat Starch,1 cup (110 g),386,Solid,110,350.90909090909093
+Whole Grain Wheat,1 cup (120 g),407,Solid,120,339.1666666666667
+Wholegrain Oat,1 cup (80 g),300,Solid,80,375.0
+Almond Oil,1 tbsp (14 ml),123,Liquid,14,878.5714285714287
+Apricot Kernel Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Argan Oil,1 tbsp (14 ml),125,Liquid,14,892.8571428571429
+Avocado Oil,1 tbsp (14 ml),120,Liquid,14,857.1428571428571
+Babassu Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Canola Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Coconut Oil,1 tbsp (14 ml),120,Liquid,14,857.1428571428571
+Corn Oil,1 tbsp (15 ml),120,Liquid,15,800.0
+Cottonseed Oil,1 tbsp (14 ml),123,Liquid,14,878.5714285714287
+Flaxseed Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Grape Seed Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Hazelnut Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Linseed Oil,1 tbsp (14 ml),117,Liquid,14,835.7142857142858
+Menhaden Oil,1 tbsp (14 ml),128,Liquid,14,914.2857142857142
+Mustard Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Oat Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Olive Oil,1 tbsp (15 ml),120,Liquid,15,800.0
+Palm Kernel Oil,1 tbsp (14 ml),123,Liquid,14,878.5714285714287
+Palm Oil,1 tbsp (14 ml),123,Liquid,14,878.5714285714287
+Peanut Oil,1 tbsp (14 ml),120,Liquid,14,857.1428571428571
+Poppy Seed Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Pumpkin Seed Oil,1 tbsp (14 ml),123,Liquid,14,878.5714285714287
+Rice Bran Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Safflower Oil,1 tbsp (14 ml),120,Liquid,14,857.1428571428571
+Salmon Oil,1 tbsp (14 ml),128,Liquid,14,914.2857142857142
+Sesame Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Shea Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Soy Oil,1 tbsp (14 ml),123,Liquid,14,878.5714285714287
+Sunflower Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Tomato Seed Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Vegetable Oil,1 tbsp (15 ml),120,Liquid,15,800.0
+Walnut Oil,1 tbsp (14 ml),124,Liquid,14,885.7142857142858
+Wheat Germ Oil,1 tbsp (14 ml),130,Liquid,14,928.5714285714287
+Alphabet Soup,1 cup (248 g),62,Solid,248,25.0
+Bean Stew,1 cup (252 g),335,Solid,252,132.93650793650792
+Beef Bouillon,1 cup (240 g),7,Solid,240,2.9166666666666665
+Beef Noodle Soup,1 cup (244 g),83,Solid,244,34.01639344262295
+Beef Soup,1 cup (213 g),70,Solid,213,32.863849765258216
+Bouillon,1 cup (244 g),39,Solid,244,15.983606557377051
+Broccoli Cheese Soup,1 can (303 g),264,Solid,303,87.12871287128714
+Broccoli Soup,1 cup (237 g),206,Solid,237,86.91983122362869
+Cabbage Soup,1 cup (245 g),69,Solid,245,28.163265306122447
+Carrot Ginger Soup,1 serving (381 g),95,Solid,381,24.93438320209974
+Carrot Soup,1 serving (381 g),95,Solid,381,24.93438320209974
+Chicken Bouillon,1 cup (241 g),10,Solid,241,4.149377593360995
+Chicken Broth,1 cup (244 g),39,Solid,244,15.983606557377051
+Chicken Gumbo Soup,1 cup (244 g),56,Solid,244,22.950819672131146
+Chicken Noodle Soup,1 cup (248 g),62,Solid,248,25.0
+Chicken Stock,1 cup (244 g),39,Solid,244,15.983606557377051
+Chicken Vegetable Soup,1 cup (248 g),77,Solid,248,31.048387096774192
+Chicken with Rice Soup,1 cup (243 g),58,Solid,243,23.868312757201647
+Cream of Asparagus Soup,1 cup (244 g),85,Solid,244,34.83606557377049
+Cream of Broccoli Soup,1 serving (310 g),140,Solid,310,45.16129032258064
+Cream of Celery Soup,1 cup (248 g),92,Solid,248,37.096774193548384
+Cream of Chicken Soup,1 cup (244 g),117,Solid,244,47.950819672131146
+Cream of Mushroom Soup,1 cup (248 g),97,Solid,248,39.11290322580645
+Cream of Onion Soup,1 cup (244 g),107,Solid,244,43.85245901639344
+Cream of Potato Soup,1 cup (244 g),73,Solid,244,29.918032786885245
+Creamy Chicken Noodle Soup,1 cup (245 g),56,Solid,245,22.857142857142858
+French Onion Soup,1 cup (243 g),56,Solid,243,23.045267489711936
+Golden Mushroom Soup,1 cup (248 g),161,Solid,248,64.91935483870968
+Goulash,1 serving (187 g),1887,Solid,187,1009.0909090909091
+Instant Ramen,1 package (85 g),371,Solid,85,436.4705882352941
+Lentil Soup,1 cup (248 g),139,Solid,248,56.048387096774185
+Lobster Bisque Soup,1 cup (248 g),248,Solid,248,100.0
+Meatball Soup,1 cup (245 g),120,Solid,245,48.97959183673469
+Minestrone,1 cup (241 g),82,Solid,241,34.024896265560166
+Mushroom Soup,1 cup (244 g),85,Solid,244,34.83606557377049
+Noodle Soup,1 cup (244 g),83,Solid,244,34.01639344262295
+Onion Soup,1 cup (243 g),56,Solid,243,23.045267489711936
+Oxtail Soup,1 cup (244 g),68,Solid,244,27.86885245901639
+Pea Soup,1 cup (253 g),190,Solid,253,75.09881422924902
+Potato Soup,1 serving (240 g),192,Solid,240,80.0
+Pumpkin Soup,1 cup (245 g),71,Solid,245,28.97959183673469
+Ramen,1 package (85 g),371,Solid,85,436.4705882352941
+Scotch Broth,1 cup (241 g),80,Solid,241,33.19502074688796
+Succotash,1 cup (192 g),221,Solid,192,115.10416666666667
+Thai Soup,1 cup (245 g),147,Solid,245,60.0
+Tomato Rice Soup,1 cup (247 g),116,Solid,247,46.963562753036435
+Tomato Soup,1 cup (248 g),74,Solid,248,29.838709677419356
+Vegetable Beef Soup,1 cup (244 g),76,Solid,244,31.147540983606557
+Vegetable Broth,1 cup (235 g),12,Solid,235,5.106382978723404
+Vegetable Soup,1 cup (241 g),67,Solid,241,27.800829875518673
+Vegetable Stock,1 cup (235 g),12,Solid,235,5.106382978723404
+Wedding Soup,1 cup (245 g),130,Solid,245,53.06122448979592
+Baskin-Robbins,1 scoop (71 g),170,Solid,71,239.43661971830986
+Ben and Jerry’s,1 scoop (92 g),210,Solid,92,228.26086956521738
+Butter Pecan Ice Cream,1 scoop (113 g),280,Solid,113,247.787610619469
+Carvel,1 cup (212 g),449,Solid,212,211.79245283018867
+Chocolate Chip Ice Cream,1 scoop (72 g),155,Solid,72,215.27777777777777
+Chocolate Ice Cream,1 scoop (72 g),156,Solid,72,216.66666666666666
+Ciao Bella,1 cup (220 g),240,Solid,220,109.09090909090908
+Coffee Ice Cream,1 scoop (72 g),170,Solid,72,236.11111111111111
+Cold Stone Creamery,1 scoop (142 g),329,Solid,142,231.6901408450704
+Cookie Dough Ice Cream,1/2 cup (65 g),130,Solid,65,200.0
+Crunchie McFlurry,1 mcflurry (183 g),318,Solid,183,173.77049180327867
+Dairy Milk McFlurry,1 mcflurry (183 g),340,Solid,183,185.79234972677597
+Dippin Dots,1 cup (170 g),381,Solid,170,224.11764705882354
+Double Rainbow,1 scoop (72 g),185,Solid,72,256.94444444444446
+Drumsticks,1 cone (141 g),360,Solid,141,255.31914893617022
+French Vanilla Ice Cream,1 scoop (72 g),145,Solid,72,201.38888888888889
+Friendly’s,1 scoop (66 g),140,Solid,66,212.12121212121212
+Healthy Choice,1 bar (64 g),80,Solid,64,125.0
+Hot Fudge Sundae,1 sundae (179 g),333,Solid,179,186.03351955307264
+Ice Cream Sandwich,1 bar (112 g),265,Solid,112,236.60714285714283
+Ice Cream Sundae,1 sundae (178 g),253,Solid,178,142.13483146067415
+Ice Milk,1 scoop (103 g),164,Solid,103,159.2233009708738
+Magnolia,1 scoop (72 g),166,Solid,72,230.55555555555554
+Magnum,1 magnum (86 g),258,Solid,86,300.0
+Magnum Almond,1 magnum (86 g),271,Solid,86,315.1162790697674
+Magnum Double Caramel,1 magnum (86 g),305,Solid,86,354.6511627906977
+Magnum Double Chocolate,1 magnum (86 g),327,Solid,86,380.2325581395349
+Magnum Gold,1 magnum (85 g),290,Solid,85,341.1764705882353
+Magnum White,1 magnum (86 g),255,Solid,86,296.51162790697674
+McFlurry,1 mcflurry (134 g),205,Solid,134,152.98507462686567
+McFlurry Oreo,1 mcflurry (183 g),340,Solid,183,185.79234972677597
+Mini Milk,1 mini milk (25 g),30,Solid,25,120.0
+Mint Chocolate Chip Ice Cream,1 scoop (72 g),172,Solid,72,238.88888888888889
+Rocky Road Ice Cream,1 scoop (113 g),290,Solid,113,256.6371681415929
+Schwan’s,1 scoop (72 g),177,Solid,72,245.83333333333334
+Smarties McFlurry,1 mcflurry (202 g),400,Solid,202,198.01980198019803
+Snickers Ice Cream,1 bar (50 g),180,Solid,50,360.0
+Soft Serve,1 cup (86 g),191,Solid,86,222.09302325581396
+Solero,1 solero (75 g),75,Solid,75,100.0
+Strawberry Ice Cream,1 scoop (72 g),170,Solid,72,236.11111111111111
+Strawberry Sundae,1 sundae (178 g),281,Solid,178,157.86516853932585
+Sundae,1 scoop (72 g),155,Solid,72,215.27777777777777
+Turkey Hill,1 sandwich (70 g),190,Solid,70,271.42857142857144
+Vanilla Cone,1 cone (142 g),230,Solid,142,161.9718309859155
+Vanilla Ice Cream,1 scoop (72 g),145,Solid,72,201.38888888888889
+Cannelloni,2 oz. (56 g),82,Solid,56,146.42857142857142
+Capellini,2 oz. (56 g),198,Solid,56,353.57142857142856
+Cappelletti,2 oz. (56 g),92,Solid,56,164.28571428571428
+Cellophane Noodles,1 cup (140 g),491,Solid,140,350.7142857142857
+Cheese Tortellini,1 cup (113 g),329,Solid,113,291.1504424778761
+Dampfnudel,1 dampfnudel (85 g),233,Solid,85,274.11764705882354
+Dumpling Dough,2 oz. (56 g),55,Solid,56,98.21428571428571
+Durum Wheat Semolina,2 oz. (56 g),222,Solid,56,396.42857142857144
+Egg Noodles,1 cup (38 g),146,Solid,38,384.2105263157895
+Farfalle,2 oz. (56 g),200,Solid,56,357.14285714285717
+Fettuccine,2 oz. (56 g),198,Solid,56,353.57142857142856
+Fusilli,2 oz. (56 g),197,Solid,56,351.7857142857143
+Glass Noodles,2 oz. (56 g),108,Solid,56,192.85714285714286
+Lasagne Sheets,1 sheet (21 g),57,Solid,21,271.42857142857144
+Linguine,2 oz. (56 g),200,Solid,56,357.14285714285717
+Low Carb Pasta,2 oz. (56 g),158,Solid,56,282.14285714285717
+Macaroni,1 cup (114 g),422,Solid,114,370.17543859649123
+Manicotti,2 oz. (56 g),200,Solid,56,357.14285714285717
+Mostaccioli,2 oz. (56 g),103,Solid,56,183.92857142857142
+Orecchiette,2 oz. (56 g),207,Solid,56,369.64285714285717
+Orzo,2 oz. (56 g),200,Solid,56,357.14285714285717
+Penne,2 oz. (56 g),197,Solid,56,351.7857142857143
+Penne Rigate,2 oz. (56 g),207,Solid,56,369.64285714285717
+Pierogi,3 pierogi (100 g),200,Solid,100,200.0
+Ravioli,2 oz. (56 g),43,Solid,56,76.78571428571429
+Rigatoni,2 oz. (56 g),198,Solid,56,353.57142857142856
+Rotini,2 oz. (56 g),198,Solid,56,353.57142857142856
+Shells,1 cup (85 g),300,Solid,85,352.94117647058823
+Shirataki Noodles,2 oz. (56 g),10,Solid,56,17.857142857142858
+Soy Noodles,2 oz. (56 g),121,Solid,56,216.07142857142856
+Spaetzle,2 oz. (56 g),206,Solid,56,367.85714285714283
+Spaghetti,2 oz. (56 g),207,Solid,56,369.64285714285717
+Spinach Tortellini,1 cup (102 g),320,Solid,102,313.72549019607845
+Spirelli,2 oz. (56 g),206,Solid,56,367.85714285714283
+Tagliatelle,2 oz. (56 g),207,Solid,56,369.64285714285717
+Tortellini,1 cup (113 g),329,Solid,113,291.1504424778761
+Vermicelli,2 oz. (56 g),206,Solid,56,367.85714285714283
+Whole Grain Noodles,2 oz. (56 g),194,Solid,56,346.42857142857144
+Whole Grain Spaghetti,2 oz. (56 g),197,Solid,56,351.7857142857143
+Ziti,2 oz. (56 g),197,Solid,56,351.7857142857143
+BBQ Chicken Pizza,1 slice (132 g),309,Solid,132,234.0909090909091
+BBQ Pizza,1 slice (140 g),314,Solid,140,224.28571428571428
+Beef Pizza,1 slice (235 g),714,Solid,235,303.82978723404256
+Bianca Pizza,1 slice (187 g),460,Solid,187,245.98930481283423
+Buffalo Chicken Pizza,1 slice (238 g),600,Solid,238,252.10084033613444
+Calabrese Pizza,1 slice (108 g),254,Solid,108,235.18518518518516
+Calzone,1 calzone (364 g),841,Solid,364,231.04395604395603
+Capricciosa Pizza,1 slice (74 g),192,Solid,74,259.4594594594595
+Cheese Pizza,1 slice (63 g),168,Solid,63,266.66666666666663
+Chicken Pizza,1 slice (132 g),309,Solid,132,234.0909090909091
+Deep Dish Pizza,1 slice (118 g),313,Solid,118,265.2542372881356
+Dominos Philly Cheese Steak Pizza,1 slice (159 g),356,Solid,159,223.8993710691824
+Four Cheese Pizza,1 slice (113 g),250,Solid,113,221.23893805309734
+Goat Cheese Pizza,1 slice (63 g),138,Solid,63,219.04761904761907
+Grilled Pizza,1 slice (124 g),280,Solid,124,225.80645161290326
+Hawaiian Pizza,1 slice (134 g),154,Solid,134,114.92537313432835
+Margherita Pizza,1 slice (63 g),173,Solid,63,274.6031746031746
+Mozzarella Pizza,1 slice (62 g),154,Solid,62,248.38709677419354
+Mushroom Pizza,1 slice (288 g),611,Solid,288,212.15277777777777
+Napoli Pizza,1 slice (123 g),248,Solid,123,201.6260162601626
+New York Style Pizza,1 slice (103 g),174,Solid,103,168.93203883495144
+Pepperoni Pizza,1 slice (71 g),181,Solid,71,254.92957746478874
+Pizza Dough,2 oz. (57 g),130,Solid,57,228.0701754385965
+Pizza Hut Stuffed Crust Pizza,1 slice (149 g),380,Solid,149,255.03355704697987
+Pizza Hut Supreme Pizza,1 slice (123 g),305,Solid,123,247.96747967479672
+Pizza Rolls,1 roll (14 g),35,Solid,14,250.0
+Quattro Formaggi Pizza,1 slice (133 g),330,Solid,133,248.1203007518797
+Red Pepper Pizza,1 slice (86 g),165,Solid,86,191.86046511627907
+Salami Pizza,1 slice (71 g),181,Solid,71,254.92957746478874
+Sausage Pizza,1 slice (72 g),177,Solid,72,245.83333333333334
+Seafood Pizza,1 slice (76 g),186,Solid,76,244.73684210526315
+Shrimp Pizza,1 slice (91 g),190,Solid,91,208.79120879120882
+Sicilian Pizza,1 slice (133 g),321,Solid,133,241.35338345864662
+Spinach Feta Pizza,1 slice (62 g),150,Solid,62,241.93548387096774
+Spinach Pizza,1 slice (62 g),145,Solid,62,233.8709677419355
+Stuffed Crust Pizza,1 slice (149 g),380,Solid,149,255.03355704697987
+Tarte Flambée,1 square (56 g),142,Solid,56,253.57142857142856
+Thin Crust Pizza,1 slice (60 g),157,Solid,60,261.6666666666667
+Tuna Pizza,1 slice (125 g),318,Solid,125,254.4
+Vegetable Pizza,1 slice (156 g),399,Solid,156,255.76923076923075
+Vegetarian Pizza,1 slice (156 g),399,Solid,156,255.76923076923075
+Veggie Pizza,1 slice (114 g),263,Solid,114,230.7017543859649
+White Pizza,1 slice (232 g),571,Solid,232,246.1206896551724
+Acerola,1 acerola (4.8 g),1,Solid,8,12.5
+Asian Pear,1 pear (178 g),75,Solid,178,42.13483146067416
+Avocado,1 avocado (200 g),320,Solid,200,160.0
+Banana,1 banana (125 g),111,Solid,125,88.8
+Breadfruit,1/4 breadfruit (96 g),99,Solid,96,103.125
+Cantaloupe Melon,1 wedge (69 g),23,Solid,69,33.33333333333333
+Casaba Melon,1 wedge (125 g),35,Solid,125,28.000000000000004
+Cherimoya,1 cherimoya (235 g),176,Solid,235,74.8936170212766
+Dragon Fruit,1 dragonfruit (200 g),120,Solid,200,60.0
+Durian,1 durian (602 g),885,Solid,602,147.00996677740864
+Feijoa,1 feijoa (42 g),23,Solid,42,54.761904761904766
+Galia Melon,1 melon (130 g),30,Solid,130,23.076923076923077
+Grapefruit,1/2 grapefruit (123 g),52,Solid,2,2600.0
+Guava,1 guava (55 g),37,Solid,1,3700.0
+Honeydew,1 wedge (125 g),45,Solid,125,36.0
+Jackfruit,1 cup (151 g),143,Solid,151,94.70198675496688
+Kiwi,1 kiwi (183 g),112,Solid,183,61.20218579234973
+Kumquat,1 kumquat (19 g),13,Solid,19,68.42105263157895
+Lychee,1 lychee (10 g),7,Solid,10,70.0
+Mandarin Oranges,1 madarin orange (90 g),48,Solid,90,53.333333333333336
+Mango,1 mango (336 g),202,Solid,336,60.11904761904761
+Mangosteen,1 serving (80 g),58,Solid,80,72.5
+Maracuya,1 maracuya (18 g),17,Solid,18,94.44444444444444
+Maraschino Cherries,1 cherry (5 g),8,Solid,5,160.0
+Muskmelon,1 wedge (69 g),23,Solid,69,33.33333333333333
+Noni,1 oz. (28.4 g),15,Solid,4,375.0
+Passion Fruit,1 passion fruit (18 g),17,Solid,18,94.44444444444444
+Pineapple,1 pineapple (905 g),453,Solid,905,50.05524861878453
+Pink Grapefruit,1/2 grapefruit (123 g),52,Solid,2,2600.0
+Plantain,1 plantain (179 g),218,Solid,179,121.78770949720669
+Pomegranate,1 pomegranate (282 g),234,Solid,282,82.97872340425532
+Pomelo,1 pomelo (609 g),231,Solid,609,37.93103448275862
+Prickly Pear,"1 pad, peeled (19 g)",8,Solid,19,42.10526315789473
+Rambutan,1 rambutan (9 g),7,Solid,9,77.77777777777779
+Sapodilla,1 sapodilla (170 g),141,Solid,170,82.94117647058825
+Soursop Fruit,1 soursop fruit (625 g),413,Solid,625,66.08000000000001
+Star Fruit,1 starfruit (91 g),28,Solid,91,30.76923076923077
+Tamarind,1 tamarind (2 g),5,Solid,2,250.0
+Watermelon,1 wedge (286 g),86,Solid,286,30.069930069930066
+Arby’s Grand Turkey Club,1 sandwich (233 g),489,Solid,233,209.87124463519314
+Arby’s Reuben,1 sandwich (308 g),641,Solid,308,208.1168831168831
+Arby’s Roast Beef Classic,1 burger (154 g),360,Solid,154,233.76623376623377
+Arby’s Roast Beef Max,1 burger (154 g),360,Solid,154,233.76623376623377
+BBQ Rib,1 rib (67 g),142,Solid,67,211.94029850746267
+Bean Burrito,1 burrito (190 g),380,Solid,190,200.0
+Big N’ Tasty,1 sandwich (232 g),517,Solid,232,222.8448275862069
+Bratwurst,1 piece (85 g),283,Solid,85,332.94117647058823
+Burger King Angry Whopper,1 burger (290 g),740,Solid,290,255.17241379310346
+Burger King Double Whopper,1 burger (374 g),894,Solid,374,239.03743315508018
+Burger King Double Whopper with Cheese,1 sandwich (399 g),994,Solid,399,249.1228070175439
+Burger King Original Chicken Sandwich,1 sandwich (219 g),659,Solid,219,300.91324200913243
+Burger King Premium Alaskan Fish Sandwich,1 burger (228 g),591,Solid,228,259.2105263157895
+Burger King Triple Whopper,1 burger (547 g),1471,Solid,547,268.92138939670934
+Burger King Whopper,1 burger (291 g),672,Solid,291,230.92783505154637
+Burger King Whopper Jr.,1 burger (148 g),346,Solid,148,233.78378378378378
+Burger King Whopper with Cheese,1 burger (315 g),759,Solid,315,240.95238095238093
+Cheeseburger,1 burger (156 g),410,Solid,156,262.8205128205128
+Chicken Breast,1 piece (71 g),116,Solid,71,163.38028169014086
+Chicken Fajita,1 sandwich (222 g),326,Solid,222,146.84684684684686
+Chicken McNuggets,1 nugget (16 g),48,Solid,16,300.0
+Chicken Nuggets,1 piece (20 g),59,Solid,20,295.0
+Chicken Pizziola,1 sandwich (320 g),451,Solid,320,140.9375
+Chicken Sandwich,1 sandwich (170 g),410,Solid,170,241.17647058823528
+Chicken Teriyaki Sandwich,1 sandwich (266 g),367,Solid,266,137.9699248120301
+Chicken Wings,1 piece (29 g),94,Solid,29,324.13793103448273
+Chop Suey,1 serving (340 g),585,Solid,340,172.05882352941177
+Curly Fries,1 serving (128 g),398,Solid,128,310.9375
+Double Cheeseburger,1 burger (155 g),414,Solid,155,267.09677419354836
+Egg Roll,1 roll (80 g),200,Solid,80,250.0
+Falafel,1 patty (17 g),57,Solid,17,335.29411764705884
+Filet-o-Fish,1 sandwich (142 g),400,Solid,142,281.6901408450704
+Fish and Chips,1 serving (300 g),585,Solid,300,195.0
+Fish Sandwich,1 sandwich (158 g),431,Solid,158,272.7848101265823
+French Fries,1 serving (71 g),222,Solid,71,312.67605633802816
+Grilled Chicken Salad,1 salad (305 g),268,Solid,305,87.8688524590164
+Ham Sandwich,1 sandwich (146 g),352,Solid,146,241.0958904109589
+Hamburger,1 sandwich (110 g),279,Solid,110,253.63636363636363
+Hot Dog,1 hot dog (116 g),312,Solid,116,268.9655172413793
+Italian BMT,1 sandwich (224 g),410,Solid,224,183.03571428571428
+Lasagna,1 piece (130 g),172,Solid,130,132.3076923076923
+McDonald’s Big Mac,1 burger (219 g),561,Solid,219,256.16438356164383
+McDonald’s Cheeseburger,1 sandwich (114 g),300,Solid,114,263.15789473684214
+McDonald’s Chicken Nuggets,1 nugget (16 g),48,Solid,16,300.0
+McDonald’s Double Cheeseburger,1 burger (155 g),437,Solid,155,281.93548387096774
+McDonald’s Filet-o-Fish,1 sandwich (142 g),391,Solid,142,275.3521126760563
+McDonald’s McChicken,1 burger (143 g),359,Solid,143,251.04895104895104
+McDonald’s McDouble,1 burger (160 g),403,Solid,160,251.87499999999997
+McDonald’s McMuffi Egg,1 burger (129 g),290,Solid,129,224.80620155038758
+McDonald’s McRib,1 sandwich (170 g),451,Solid,170,265.29411764705884
+McDonald’s Mighty Wings,1 wing (31 g),95,Solid,31,306.4516129032258
+McRib,1 sandwich (170 g),451,Solid,170,265.29411764705884
+Meatball Sandwich,1 sandwich (299 g),481,Solid,299,160.8695652173913
+Nachos with Cheese,10 nachos (188 g),575,Solid,188,305.8510638297872
+Onion Rings,1 ring (6.5 g),25,Solid,5,500.0
+Poutine,1 serving (225 g),511,Solid,225,227.11111111111114
+Smoked Salmon,1 oz. (28.35 g),44,Solid,35,125.71428571428571
+Spicy Italian,1 sandwich (219 g),480,Solid,219,219.17808219178082
+Subway Club Sandwich,1 sandwich (238 g),312,Solid,238,131.0924369747899
+Tortilla Wrap,1 wrap (63 g),171,Solid,63,271.42857142857144
+Tuna,1 oz. (28.35 g),24,Solid,35,68.57142857142857
+Turkey,1 oz. (28.35 g),29,Solid,35,82.85714285714286
+Veggie Burger,1 burger (215 g),389,Solid,215,180.93023255813955
+Veggie Delight,1 sandwich (166 g),229,Solid,166,137.95180722891567
+Veggie Patty,1 sandwich (247 g),963,Solid,247,389.87854251012146
+Wendy’s Baconator,1 burger (276 g),839,Solid,276,303.9855072463768
+Wendy’s Jr. Bacon Cheeseburger,1 burger (161 g),420,Solid,161,260.8695652173913
+Wendy’s Jr. Cheeseburger,1 burger (129 g),290,Solid,129,224.80620155038758
+Wendy’s Son of Baconator,1 burger (218 g),700,Solid,218,321.10091743119267
+Whopper,1 burger (291 g),672,Solid,291,230.92783505154637
+Zinger,1 sandwich (202 g),517,Solid,202,255.94059405940595
+Zinger Burger,1 sandwich (202 g),517,Solid,202,255.94059405940595
